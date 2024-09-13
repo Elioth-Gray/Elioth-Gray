@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elioth-gray&label=Profile%20views&color=0e75b6&style=flat-square" alt="elioth-gray" /> </p>
 
-- 🌱 I’m currently learning **React, PHP, SQL**
+- 🌱 I’m currently learning **React, Typescript, SQL, NOSQL**
 
 - 💬 Ask me about **Styling and Scripting**
 
