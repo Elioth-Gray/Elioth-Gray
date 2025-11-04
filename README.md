@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<img align="right" alt="coding-gif" width="250" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG16ZjB1MnNwYm9vOHQzOHFtZDk1dWdwcmo2Mms2Yzd1aGUxaWNsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/In0Lpu4FVivjISX9HT/giphy.gif)">
+<img align="right" alt="coding-gif" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Hi 👋, I'm **Elioth** — a passionate **Web Developer** with a growing expertise in both **frontend and backend development**.  
 I love building clean, efficient, and scalable web applications using modern technologies like **React**, **Next.js**, **TypeScript**, and **Express**.
