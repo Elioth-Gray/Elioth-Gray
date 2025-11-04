@@ -1,5 +1,18 @@
 # 💫 About Me
-Hi 👋, I'm Elioth<br>I am a beginner web developer and want to learn everything in field of computer science<br>I’m currently learning React, Typescript, SQL, NOSQL<br>I'm currently working on Next.js projects<br>Ask me about Styling and Scripting
+
+<img align="right" alt="coding-gif" width="250" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG16ZjB1MnNwYm9vOHQzOHFtZDk1dWdwcmo2Mms2Yzd1aGUxaWNsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/In0Lpu4FVivjISX9HT/giphy.gif)">
+
+Hi 👋, I'm **Elioth** — a passionate **Web Developer** with a growing expertise in both **frontend and backend development**.  
+I love building clean, efficient, and scalable web applications using modern technologies like **React**, **Next.js**, **TypeScript**, and **Express**.
+
+I'm constantly learning and experimenting with tools such as **Prisma**, **Django**, and **FastAPI** to enhance my backend skills, while also exploring **machine learning** with **TensorFlow** and **scikit-learn** to broaden my technical horizon.
+
+Currently, I’m working on **Next.js-based projects** focusing on performance, design systems, and seamless user experience.  
+I’m also exploring **DevOps** and **CI/CD pipelines** with **GitHub Actions** and modern deployment platforms like **Vercel**.
+
+💬 Feel free to ask me about anything related to **Styling, Scripting, or Fullstack Development**.  
+🚀 My goal is to become a well-rounded software engineer capable of crafting both **beautiful interfaces** and **robust backend systems**.
+
 
 # 💻 Tech Stack
 
