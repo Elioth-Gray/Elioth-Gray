@@ -8,10 +8,6 @@ I'm constantly learning and experimenting with tools such as **Prisma**, **Djang
 Currently, I’m working on **Next.js-based projects** focusing on performance, design systems, and seamless user experience.  
 I’m also exploring **DevOps** and **CI/CD pipelines** with **GitHub Actions** and modern deployment platforms like **Vercel**.
 
-💬 Feel free to ask me about anything related to **Styling, Scripting, or Fullstack Development**.  
-🚀 My goal is to become a well-rounded software engineer capable of crafting both **beautiful interfaces** and **robust backend systems**.
-
-
 # 💻 Tech Stack
 
 <h3>Languages</h3>
